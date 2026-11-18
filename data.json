@@ -2,19 +2,22 @@
     {
         "id": 1,
         "name": "Rahul",
-        "age": 25,
-        "city": "Vadodara"
+        "age": 45,
+        "city": "Vadodara",
+	"profession": "Technical Project Manager"
     },
     {
         "id": 2,
         "name": "Priya",
-        "age": 28,
+        "age": 29,
         "city": "Ahmedabad"
+	"profession": "Software Tester"
     },
     {
         "id": 3,
         "name": "Amit",
         "age": 30,
-        "city": "Surat"
+        "city": "Surat",
+	"profession": "Software Developer"
     }
 ]
